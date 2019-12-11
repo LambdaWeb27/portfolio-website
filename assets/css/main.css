@@ -3024,6 +3024,7 @@ input, select, textarea {
 				position: relative;
 				width: calc(100% + 3.5em);
 			}
+			/* Added to try and fix photo sizing */
 			#Greatidea{
 				border-radius: 5px 5px 0 0;
 				display: block;
